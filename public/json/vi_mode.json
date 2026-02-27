@@ -1334,6 +1334,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1422,6 +1423,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1510,6 +1512,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1598,6 +1601,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1688,6 +1692,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1778,6 +1783,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1868,6 +1874,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -1958,6 +1965,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -2048,6 +2056,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]
@@ -2138,6 +2147,7 @@
                 "^org\\.alacritty$",
                 "^net\\.kovidgoyal\\.kitty$",
                 "^com\\.mitchellh\\.ghostty$",
+                "^com\\.cmuxterm\\.app$",
                 "^org\\.vim\\.",
                 "^com\\.qvacua\\.VimR$"
               ]

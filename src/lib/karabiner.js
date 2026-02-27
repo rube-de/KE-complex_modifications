@@ -96,6 +96,7 @@ const rawBundleIdentifers = {
     '^org\\.alacritty$',
     '^net\\.kovidgoyal\\.kitty$',
     '^com\\.mitchellh\\.ghostty$',
+    '^com\\.cmuxterm\\.app$',
   ],
 
   vi: [
